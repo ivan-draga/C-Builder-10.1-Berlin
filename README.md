@@ -1,1 +1,1 @@
-# stalker-multiplayer
+# Without palevny injector
